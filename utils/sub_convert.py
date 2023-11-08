@@ -408,7 +408,7 @@ class sub_convert():
                         proxyname=str(idid)
                 
                 proxyname=re.findall(r'^..',proxyname)[0]
-                        
+                proxyname = 'TG频道@mfbpn'
                 if len(proxies_list) >=1000:
                     
                     proxy['name'] =f'{proxyname}-{proxy_index:0>4d}-{country_code}'
