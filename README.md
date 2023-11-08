@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1329`
+当前合并节点总数: `2060`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `74`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
@@ -47,7 +47,7 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `64`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `38`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
-- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `0`
+- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `731`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `50`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
 - [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `127`
