@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2060`
+当前合并节点总数: `1351`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `74`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
@@ -47,18 +47,18 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `64`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `38`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
-- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `731`
+- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `0`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `50`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
 - [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `127`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
-- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `28`
+- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `19`
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `425`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `138`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `21`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `170`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `20`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `30`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `238`
