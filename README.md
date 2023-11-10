@@ -35,10 +35,10 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2326`
+当前合并节点总数: `2310`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `147`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `241`
-- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `596`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `201`
+- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `597`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `0`
@@ -56,16 +56,16 @@
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
-- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `19`
+- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `12`
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `481`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `126`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `25`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `155`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `24`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `11`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `330`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `15`
-- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `15`
+- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `17`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `48`
 
 ## 客户端选择
