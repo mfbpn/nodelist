@@ -35,9 +35,9 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2703`
+当前合并节点总数: `2661`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `105`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `202`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `157`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `667`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
@@ -50,7 +50,7 @@
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `32`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
 - [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `0`
-- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `63`
+- [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `59`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
 - [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `50`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
@@ -58,7 +58,7 @@
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `15`
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
-- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `499`
+- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `506`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `193`
 - [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `38`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
