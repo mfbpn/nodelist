@@ -35,10 +35,10 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2629`
+当前合并节点总数: `3396`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `105`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `141`
-- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `667`
+- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `668`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `0`
@@ -49,10 +49,10 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `50`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `32`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
-- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `0`
+- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `834`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `59`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
-- [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `50`
+- [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `55`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
@@ -60,10 +60,10 @@
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `506`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `188`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `27`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `21`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `501`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `434`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `2`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `17`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `173`
