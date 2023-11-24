@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2328`
+当前合并节点总数: `2265`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `121`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `82`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `677`
@@ -49,7 +49,7 @@
 - [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `44`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `16`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
-- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `55`
+- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `0`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `53`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
 - [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `37`
@@ -59,11 +59,11 @@
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `0`
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `624`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `139`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `12`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `128`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `10`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `215`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `220`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `2`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `16`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `134`
