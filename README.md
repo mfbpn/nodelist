@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2545`
+当前合并节点总数: `2550`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `112`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `149`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `671`
@@ -60,7 +60,7 @@
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `589`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `215`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `29`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `34`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `232`
