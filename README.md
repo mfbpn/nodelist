@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2446`
+当前合并节点总数: `2743`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `118`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `56`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `670`
@@ -46,10 +46,10 @@
 - [16ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `0`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `0`
 - [10jwy2008/clash](https://github.com/jwy2008/clash), 节点数量: `16`
-- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `54`
+- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `58`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `16`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
-- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `65`
+- [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `66`
 - [16ts-sf/fly](https://github.com/ts-sf/fly), 节点数量: `55`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
 - [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `14`
@@ -63,7 +63,7 @@
 - [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `29`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `232`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `524`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `44`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `21`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `152`
