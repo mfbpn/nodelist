@@ -35,9 +35,9 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2987`
+当前合并节点总数: `2900`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `163`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `205`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `118`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `674`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
