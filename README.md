@@ -35,10 +35,10 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2747`
-- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `112`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `28`
-- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `653`
+当前合并节点总数: `3012`
+- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `124`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `256`
+- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `652`
 - [4rxsweet/proxies](https://github.com/rxsweet/proxies), 节点数量: `0`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `0`
@@ -46,7 +46,7 @@
 - [16ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `0`
 - [9zhangkaiitugithub/passcro](https://github.com/zhangkaiitugithub/passcro), 节点数量: `0`
 - [10jwy2008/clash](https://github.com/jwy2008/clash), 节点数量: `16`
-- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `101`
+- [11ronghuaxueleng/get_v2](https://github.com/ronghuaxueleng/get_v2), 节点数量: `97`
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `16`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
 - [15freenodes/freenodes](https://github.com/freenodes/freenodes), 节点数量: `67`
@@ -60,7 +60,7 @@
 - [25hebe061103/clash](https://github.com/hebe061103/clash), 节点数量: `0`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `703`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `197`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `33`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `63`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `436`
