@@ -35,9 +35,9 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2925`
+当前合并节点总数: `2767`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `123`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `220`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `75`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `345`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `647`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
@@ -54,7 +54,7 @@
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `17`
-- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `601`
+- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `588`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `226`
 - [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `60`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
