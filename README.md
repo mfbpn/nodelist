@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `2772`
+当前合并节点总数: `2594`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `113`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `10`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `398`
@@ -55,11 +55,11 @@
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `12`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `586`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `220`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `20`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `216`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `21`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `486`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `311`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `23`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `15`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `97`
