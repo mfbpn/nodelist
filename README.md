@@ -35,11 +35,11 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1531`
-- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `52`
+当前合并节点总数: `1453`
+- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `65`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `0`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `328`
-- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `263`
+- [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `262`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `0`
 - [8ripaojiedian/freenode](https://github.com/ripaojiedian/freenode), 节点数量: `0`
@@ -56,13 +56,13 @@
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `15`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `196`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `155`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `24`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `20`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `216`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `0`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `17`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `145`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `59`
 
 ## 客户端选择
 ### 主流桌面客户端
