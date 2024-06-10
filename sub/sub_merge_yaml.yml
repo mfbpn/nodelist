@@ -60,7 +60,7 @@ proxies:
 - {name: "TG频道@mfbpn-0058-NOWHERE", server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /ray, headers: {host: 331tw.fans8.xyz}}, udp: true}
 - {name: "TG频道@mfbpn-0059-NOWHERE", server: 331tw.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1c08f35bdafe74a6a386907aa, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /ray, headers: {host: 331tw.fans8.xyz}}, udp: true}
 - {name: "TG频道@mfbpn-0060-NOWHERE", server: 527hk1.fans8.xyz, port: 80, type: vmess, uuid: 7f4ff2e1-c08f-35bd-afe7-4a6a386907aa, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /ray, headers: {host: 527hk1.fans8.xyz}}, udp: true}
-- {name: "TG频道@mfbpn-0061-US", server: gycd1.csccdd.xyz, port: 52340, type: vmess, uuid: 1dc13504-e4ba-3c49-8e0b-6a3eb4e40335, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /index, headers: {host: gycd1.csccdd.xyz}}, udp: true}
+- {name: "TG频道@mfbpn-0061-NL", server: gycd1.csccdd.xyz, port: 52340, type: vmess, uuid: 1dc13504-e4ba-3c49-8e0b-6a3eb4e40335, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /index, headers: {host: gycd1.csccdd.xyz}}, udp: true}
 - {name: "TG频道@mfbpn-0062-NOWHERE", server: hk003.369boy.com, port: 32502, type: trojan, password: d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0063-CN", server: bgpv2.ktyjsq.com, port: 12221, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: None, headers: {host: None}}, udp: true}
 - {name: "TG频道@mfbpn-0064-CN", server: bgpv2.ktyjsq.com, port: 12005, type: vmess, uuid: 9ea70d57-9cb6-3bd0-ae41-5601e516dcc6, alterId: 0, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: None, headers: {host: None}}, udp: true}
@@ -131,13 +131,13 @@ proxies:
 - {name: "TG频道@mfbpn-0129-RELAY", server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: eec8671c-8b06-4475-9139-7fa0c32098b2, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /sssddd, headers: {host: cf-nl7.fanqiecloud.top}}, udp: true}
 - {name: "TG频道@mfbpn-0130-NOWHERE", server: in.fanqiecloud.top, port: 22460, type: ss, cipher: chacha20-ietf-poly1305, password: eec8671c-8b06-4475-9139-7fa0c32098b2}
 - {name: "TG频道@mfbpn-0131-RELAY", server: dlaa.fanqiecloud.top, port: 2086, type: vmess, uuid: eec8671c-8b06-4475-9139-7fa0c32098b2, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /sssddd, headers: {host: cf-db7.fanqiecloud.top}}, udp: true}
-- {name: "TG频道@mfbpn-0132-RELAY", server: 104.18.68.56, port: 2095, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /db00104.18.68.56, headers: {host: 100-100-17-179.db-link01.top}}, udp: true}
-- {name: "TG频道@mfbpn-0133-RELAY", server: 104.17.41.39, port: 8880, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.17.41.39, headers: {host: 100-100-17-313.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0134-RELAY", server: 104.21.38.23, port: 8080, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.21.38.23, headers: {host: 100-100-17-209.db-link02.top}}, udp: true}
-- {name: "TG频道@mfbpn-0135-RELAY", server: 172.67.121.239, port: 2082, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.121.239, headers: {host: 100-100-17-461.db-link02.top}}, udp: true}
-- {name: "TG频道@mfbpn-0136-RELAY", server: 172.64.4.128, port: 2086, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.64.4.128, headers: {host: 100-100-17-345.db-link01.top}}, udp: true}
-- {name: "TG频道@mfbpn-0137-RELAY", server: 172.67.108.227, port: 80, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.108.227, headers: {host: 100-100-17-72.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0138-RELAY", server: 172.64.48.143, port: 2086, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.64.48.143, headers: {host: 100-100-17-421.cn-db.top}}, udp: true}
+- {name: "TG频道@mfbpn-0132-RELAY", server: 104.16.165.97, port: 2095, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /db00104.16.165.97, headers: {host: 100-100-17-463.db-link01.top}}, udp: true}
+- {name: "TG频道@mfbpn-0133-RELAY", server: 172.67.41.228, port: 2082, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.41.228, headers: {host: 100-100-17-11.cn-db.top}}, udp: true}
+- {name: "TG频道@mfbpn-0134-RELAY", server: 104.24.234.49, port: 2052, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.24.234.49, headers: {host: 100-100-17-243.db-link01.top}}, udp: true}
+- {name: "TG频道@mfbpn-0135-RELAY", server: 172.64.23.251, port: 2052, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.64.23.251, headers: {host: 100-100-17-74.db-link01.top}}, udp: true}
+- {name: "TG频道@mfbpn-0136-RELAY", server: 104.25.70.155, port: 2082, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.25.70.155, headers: {host: 100-100-17-465.db-link01.top}}, udp: true}
+- {name: "TG频道@mfbpn-0137-RELAY", server: 104.21.203.19, port: 2052, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.21.203.19, headers: {host: 100-100-17-300.db-link02.top}}, udp: true}
+- {name: "TG频道@mfbpn-0138-RELAY", server: 104.19.67.164, port: 2052, type: vmess, uuid: 6e3cd746-029e-3921-bb8e-b532fa524ed5, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.19.67.164, headers: {host: 100-100-17-214.cn-db.top}}, udp: true}
 - {name: "TG频道@mfbpn-0139-DE", server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0140-DE", server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0141-DE", server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -172,16 +172,16 @@ proxies:
 - {name: "TG频道@mfbpn-0170-MY", server: klvip101.qlgq.fun, port: 10443, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0171-MY", server: klvip101.qlgq.fun, port: 20443, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0172-MY", server: klvip101.qlgq.fun, port: 30443, type: trojan, password: 5a144a23-f1dd-3256-90f1-06e08f3bff85, sni: klvip101.qlgq.fun, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0173-CN", server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 16.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0174-CN", server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 18.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0175-CN", server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 12.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0176-CN", server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 17.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0177-CN", server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 19.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0178-CN", server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 14.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0179-CN", server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 15.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0180-CN", server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 5.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0181-CN", server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 13.v2-ray.cyou}}, udp: true}
-- {name: "TG频道@mfbpn-0182-CN", server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: f992b209-a71c-3055-8b01-a7d15e5c7da4, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 11.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0173-CN", server: 16.v2-ray.cyou, port: 23616, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 16.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0174-CN", server: 18.v2-ray.cyou, port: 23618, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 18.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0175-CN", server: 12.v2-ray.cyou, port: 23612, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 12.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0176-CN", server: 17.v2-ray.cyou, port: 23617, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 17.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0177-CN", server: 19.v2-ray.cyou, port: 23619, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 19.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0178-CN", server: 14.v2-ray.cyou, port: 23614, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 14.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0179-CN", server: 15.v2-ray.cyou, port: 23615, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 15.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0180-CN", server: 5.v2-ray.cyou, port: 23605, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 5.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0181-CN", server: 13.v2-ray.cyou, port: 23613, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 13.v2-ray.cyou}}, udp: true}
+- {name: "TG频道@mfbpn-0182-CN", server: 11.v2-ray.cyou, port: 23611, type: vmess, uuid: 60d3f4f4-a81b-3ff3-bc4c-88851dff9595, alterId: 2, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: 11.v2-ray.cyou}}, udp: true}
 - {name: "TG频道@mfbpn-0183-US", server: mg01.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: ssmtt.com}}, udp: true}
 - {name: "TG频道@mfbpn-0184-US", server: mg02.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: mg02.pigvip.xyz}}, udp: true}
 - {name: "TG频道@mfbpn-0185-US", server: mg03.pigvip.xyz, port: 2380, type: vmess, uuid: 4b8d9c57-e34f-4ebf-adf5-905e8661b5f8, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: ssmtt.com}}, udp: true}
@@ -270,53 +270,53 @@ proxies:
 - {name: "TG频道@mfbpn-0268-RELAY", server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: fr-new01.daluquan.top}}, udp: true}
 - {name: "TG频道@mfbpn-0269-RELAY", server: de-new01.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: de-new01.daluquan.top}}, udp: true}
 - {name: "TG频道@mfbpn-0270-RELAY", server: go.daluquan.top, port: 8080, type: vmess, uuid: 5f7dad4c-aaad-432d-a775-ad078a1a2055, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: de-new01.daluquan.top}}, udp: true}
-- {name: "TG频道@mfbpn-0271-CN", server: gy.58n.net, port: 20301, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0272-CN", server: gy.58n.net, port: 43337, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0273-CN", server: gy.58n.net, port: 20307, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0274-CN", server: gy.58n.net, port: 28678, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0275-CN", server: gy.58n.net, port: 24603, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0276-CN", server: gy.58n.net, port: 22741, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0277-CN", server: gy.58n.net, port: 20278, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0278-CN", server: gy.58n.net, port: 20279, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0279-CN", server: gy.58n.net, port: 20294, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0280-CN", server: gy.58n.net, port: 59021, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0281-CN", server: gy.58n.net, port: 21247, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0282-CN", server: gy.58n.net, port: 33323, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0283-CN", server: gy.58n.net, port: 36821, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0284-CN", server: gy.58n.net, port: 45168, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0285-CN", server: gy.58n.net, port: 50355, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0286-CN", server: gy.58n.net, port: 20295, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0287-CN", server: gy.58n.net, port: 20296, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0288-CN", server: gy.58n.net, port: 20308, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0289-CN", server: gy.58n.net, port: 16895, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0290-CN", server: gy.58n.net, port: 21970, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0291-CN", server: gy.58n.net, port: 14846, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0292-CN", server: gy.58n.net, port: 30767, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0293-CN", server: gy.58n.net, port: 56783, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0294-CN", server: gy.58n.net, port: 20288, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0295-CN", server: gy.58n.net, port: 20298, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0296-CN", server: gy.58n.net, port: 20300, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0297-CN", server: gy.58n.net, port: 41767, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0298-CN", server: gy.58n.net, port: 54178, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0299-CN", server: gy.58n.net, port: 20139, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0300-CN", server: gy.58n.net, port: 20140, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0301-CN", server: gy.58n.net, port: 20141, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0302-CN", server: gy.58n.net, port: 20142, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0303-CN", server: gy.58n.net, port: 20059, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0304-CN", server: gy.58n.net, port: 20071, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0305-CN", server: gy.58n.net, port: 20076, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0306-CN", server: gy.58n.net, port: 20299, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0307-CN", server: gy.58n.net, port: 17806, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0308-CN", server: gy.58n.net, port: 30712, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0309-CN", server: gy.58n.net, port: 20129, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0310-CN", server: gy.58n.net, port: 20130, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0311-CN", server: gy.58n.net, port: 25238, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0312-CN", server: gy.58n.net, port: 11215, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0313-CN", server: gy.58n.net, port: 20302, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0314-CN", server: gy.58n.net, port: 20303, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0315-CN", server: gy.58n.net, port: 20304, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0316-CN", server: gy.58n.net, port: 20305, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0317-CN", server: gy.58n.net, port: 20306, type: trojan, password: 6446c8d6-277a-396e-afe9-a0ad84ea8509, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0271-CN", server: gy.58n.net, port: 20301, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z301.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0272-CN", server: gy.58n.net, port: 43337, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z102.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0273-CN", server: gy.58n.net, port: 20307, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z307.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0274-CN", server: gy.58n.net, port: 28678, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z143.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0275-CN", server: gy.58n.net, port: 24603, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z259.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0276-CN", server: gy.58n.net, port: 22741, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: dufu.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0277-CN", server: gy.58n.net, port: 20278, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z278.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0278-CN", server: gy.58n.net, port: 20279, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z279.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0279-CN", server: gy.58n.net, port: 20294, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z294.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0280-CN", server: gy.58n.net, port: 59021, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x100.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0281-CN", server: gy.58n.net, port: 21247, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x91.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0282-CN", server: gy.58n.net, port: 33323, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z261.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0283-CN", server: gy.58n.net, port: 36821, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z262.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0284-CN", server: gy.58n.net, port: 45168, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z263.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0285-CN", server: gy.58n.net, port: 50355, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z264.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0286-CN", server: gy.58n.net, port: 20295, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z295.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0287-CN", server: gy.58n.net, port: 20296, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z296.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0288-CN", server: gy.58n.net, port: 20308, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z308.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0289-CN", server: gy.58n.net, port: 16895, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x40.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0290-CN", server: gy.58n.net, port: 21970, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x41.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0291-CN", server: gy.58n.net, port: 14846, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x46.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0292-CN", server: gy.58n.net, port: 30767, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z61.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0293-CN", server: gy.58n.net, port: 56783, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z266.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0294-CN", server: gy.58n.net, port: 20288, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z288.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0295-CN", server: gy.58n.net, port: 20298, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z298.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0296-CN", server: gy.58n.net, port: 20300, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z300.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0297-CN", server: gy.58n.net, port: 41767, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x114.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0298-CN", server: gy.58n.net, port: 54178, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x115.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0299-CN", server: gy.58n.net, port: 20139, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z139.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0300-CN", server: gy.58n.net, port: 20140, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z140.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0301-CN", server: gy.58n.net, port: 20141, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z141.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0302-CN", server: gy.58n.net, port: 20142, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z142.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0303-CN", server: gy.58n.net, port: 20059, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x59.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0304-CN", server: gy.58n.net, port: 20071, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x71.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0305-CN", server: gy.58n.net, port: 20076, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x76.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0306-CN", server: gy.58n.net, port: 20299, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x299.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0307-CN", server: gy.58n.net, port: 17806, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x65.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0308-CN", server: gy.58n.net, port: 30712, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x83.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0309-CN", server: gy.58n.net, port: 20129, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x129.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0310-CN", server: gy.58n.net, port: 20130, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: x130.flybar.work, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0311-CN", server: gy.58n.net, port: 25238, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z267.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0312-CN", server: gy.58n.net, port: 11215, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z268.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0313-CN", server: gy.58n.net, port: 20302, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z302.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0314-CN", server: gy.58n.net, port: 20303, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z303.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0315-CN", server: gy.58n.net, port: 20304, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z304.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0316-CN", server: gy.58n.net, port: 20305, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z305.hongkongnode.top, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0317-CN", server: gy.58n.net, port: 20306, type: trojan, password: 9a17322c-59ef-31fa-9eeb-eb9a3a2cb13a, sni: z306.hongkongnode.top, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0318-RELAY", server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: cuoguous.qiliqili.store}}, udp: true}
 - {name: "TG频道@mfbpn-0319-RELAY", server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: cuoguoin.qiliqili.store}}, udp: true}
 - {name: "TG频道@mfbpn-0320-RELAY", server: biezaicuoguoxyz.qiliqili.store, port: 2052, type: vmess, uuid: 20fb7fae-1ef0-4663-a175-f5add2d0198e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: cuoguoid.qiliqili.store}}, udp: true}
@@ -391,13 +391,13 @@ proxies:
 - {name: "TG频道@mfbpn-0389-NOWHERE", server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: f8a6a05b-6071-41d8-b8e8-313ee90ffbfc, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /202402, headers: {host: yyyt-in-2024.bzqcmi.top}}, udp: true}
 - {name: "TG频道@mfbpn-0390-NOWHERE", server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: f8a6a05b-6071-41d8-b8e8-313ee90ffbfc, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /202402, headers: {host: yyyt-au-2024.bzqcmi.top}}, udp: true}
 - {name: "TG频道@mfbpn-0391-NOWHERE", server: yyyt-cmi.996699.top, port: 20011, type: vmess, uuid: f8a6a05b-6071-41d8-b8e8-313ee90ffbfc, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /202402, headers: {host: yyyt-sg-2024.bzqcmi.top}}, udp: true}
-- {name: "TG频道@mfbpn-0392-NOWHERE", server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
+- {name: "TG频道@mfbpn-0392-KR", server: hk01.bigmeyear.org, port: 20001, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
 - {name: "TG频道@mfbpn-0393-NOWHERE", server: hk02.bigmeyear.org, port: 20232, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
-- {name: "TG频道@mfbpn-0394-NOWHERE", server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
-- {name: "TG频道@mfbpn-0395-NOWHERE", server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
+- {name: "TG频道@mfbpn-0394-DE", server: hk03.bigmeyear.org, port: 20233, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
+- {name: "TG频道@mfbpn-0395-DE", server: hk04.bigmeyear.org, port: 20234, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
 - {name: "TG频道@mfbpn-0396-NOWHERE", server: tw01.bigmeyear.org, port: 20334, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
-- {name: "TG频道@mfbpn-0397-NOWHERE", server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
-- {name: "TG频道@mfbpn-0398-NOWHERE", server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
+- {name: "TG频道@mfbpn-0397-KR", server: tw02.bigmeyear.org, port: 20335, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
+- {name: "TG频道@mfbpn-0398-KR", server: tw03.bigmeyear.org, port: 20336, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
 - {name: "TG频道@mfbpn-0399-NOWHERE", server: sg01.bigmeyear.org, port: 30234, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
 - {name: "TG频道@mfbpn-0400-NOWHERE", server: sg02.bigmeyear.org, port: 30235, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
 - {name: "TG频道@mfbpn-0401-NOWHERE", server: sg03.bigmeyear.org, port: 30233, type: ss, cipher: aes-128-gcm, password: 00f08097-f674-4001-ba56-0d35c238af0c}
@@ -421,18 +421,18 @@ proxies:
 - {name: "TG频道@mfbpn-0419-CN", server: freejpno1.beednsvip.top, port: 45613, type: ssr, cipher: aes-256-cfb, password: tsu9oi, obfs: plain, protocol: auth_aes128_sha1, protocol-param: 20335:luHkQv, obfs-param: 9d03a20335.microsoft.com, group: SSRProvider}
 - {name: "TG频道@mfbpn-0420-CN", server: freeno1sg.beednsvip.top, port: 19546, type: ssr, cipher: aes-256-cfb, password: tsu9oi, obfs: plain, protocol: auth_aes128_sha1, protocol-param: 20335:luHkQv, obfs-param: 9d03a20335.microsoft.com, group: SSRProvider}
 - {name: "TG频道@mfbpn-0421-CN", server: freeno1us.beednsvip.top, port: 19547, type: ssr, cipher: aes-256-cfb, password: tsu9oi, obfs: plain, protocol: auth_aes128_sha1, protocol-param: 20335:luHkQv, obfs-param: 9d03a20335.microsoft.com, group: SSRProvider}
-- {name: "TG频道@mfbpn-0422-RELAY", server: 104.20.130.183, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /db00104.20.130.183, headers: {host: 100-100-17-147.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0423-RELAY", server: 104.18.83.161, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.18.83.161, headers: {host: 100-100-17-273.db-link01.top}}, udp: true}
-- {name: "TG频道@mfbpn-0424-RELAY", server: 104.16.147.48, port: 2095, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.16.147.48, headers: {host: 100-100-17-101.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0425-RELAY", server: 172.67.41.89, port: 2095, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.41.89, headers: {host: 100-100-17-146.db-link01.top}}, udp: true}
-- {name: "TG频道@mfbpn-0426-RELAY", server: 104.24.247.254, port: 80, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.24.247.254, headers: {host: 100-100-17-370.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0427-RELAY", server: 172.64.28.125, port: 2082, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.64.28.125, headers: {host: 100-100-17-229.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0428-RELAY", server: 172.67.118.195, port: 2082, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.118.195, headers: {host: 100-100-17-213.cn-db.top}}, udp: true}
-- {name: "TG频道@mfbpn-0429-JP", server: 52.198.230.68, port: 443, type: trojan, password: 1f6b53a7-cb9c-3d0b-abc8-5e1864512c9d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0430-JP", server: 35.74.232.62, port: 443, type: trojan, password: 1f6b53a7-cb9c-3d0b-abc8-5e1864512c9d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0431-US", server: 54.244.151.192, port: 443, type: trojan, password: 1f6b53a7-cb9c-3d0b-abc8-5e1864512c9d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0432-US", server: 103.136.185.27, port: 5514, type: trojan, password: 1f6b53a7-cb9c-3d0b-abc8-5e1864512c9d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-0433-US", server: 103.136.185.28, port: 3504, type: trojan, password: 1f6b53a7-cb9c-3d0b-abc8-5e1864512c9d, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0422-RELAY", server: 104.25.112.17, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /db00104.25.112.17, headers: {host: 100-100-17-63.cn-db.top}}, udp: true}
+- {name: "TG频道@mfbpn-0423-RELAY", server: 172.67.5.237, port: 8880, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.5.237, headers: {host: 100-100-17-163.db-link02.top}}, udp: true}
+- {name: "TG频道@mfbpn-0424-RELAY", server: 104.24.243.9, port: 2052, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.24.243.9, headers: {host: 100-100-17-430.cn-db.top}}, udp: true}
+- {name: "TG频道@mfbpn-0425-RELAY", server: 172.67.91.81, port: 80, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.91.81, headers: {host: 100-100-17-65.db-link02.top}}, udp: true}
+- {name: "TG频道@mfbpn-0426-RELAY", server: 172.67.49.221, port: 2086, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.49.221, headers: {host: 100-100-17-129.cn-db.top}}, udp: true}
+- {name: "TG频道@mfbpn-0427-RELAY", server: 104.20.229.176, port: 2052, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in104.20.229.176, headers: {host: 100-100-17-83.db-link01.top}}, udp: true}
+- {name: "TG频道@mfbpn-0428-RELAY", server: 172.67.73.242, port: 80, type: vmess, uuid: a4df2c0d-1a6c-327d-aab3-f0f66b1a44ff, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /dabai.in172.67.73.242, headers: {host: 100-100-17-258.db-link02.top}}, udp: true}
+- {name: "TG频道@mfbpn-0429-JP", server: 52.198.230.68, port: 443, type: trojan, password: 8bc3fbd6-d0b4-3762-9a49-792dc9427a6c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0430-JP", server: 35.74.232.62, port: 443, type: trojan, password: 8bc3fbd6-d0b4-3762-9a49-792dc9427a6c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0431-US", server: 54.244.151.192, port: 443, type: trojan, password: 8bc3fbd6-d0b4-3762-9a49-792dc9427a6c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0432-US", server: 103.136.185.27, port: 5514, type: trojan, password: 8bc3fbd6-d0b4-3762-9a49-792dc9427a6c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-0433-US", server: 103.136.185.28, port: 3504, type: trojan, password: 8bc3fbd6-d0b4-3762-9a49-792dc9427a6c, sni: AAAAAAAAAAAAAAAAAAA.BILIVIDEO.COM, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0434-DE", server: fkvip101.qlgq.fun, port: 11789, type: trojan, password: 3d4a1e48-57df-3b92-ae18-ac8700f26373, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0435-DE", server: fkvip101.qlgq.fun, port: 21789, type: trojan, password: 3d4a1e48-57df-3b92-ae18-ac8700f26373, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-0436-DE", server: fkvip101.qlgq.fun, port: 31789, type: trojan, password: 3d4a1e48-57df-3b92-ae18-ac8700f26373, sni: fkvip101.qlgq.fun, skip-cert-verify: true, udp: true}
@@ -700,49 +700,49 @@ proxies:
 - {name: "TG频道@mfbpn-0698-RELAY", server: 94.140.0.110, port: 8880, type: vmess, uuid: 0d1bf26a-ce97-4707-a270-7f4d2ae37334, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: food.zhaal.ir}}, udp: true}
 - {name: "TG频道@mfbpn-0699-RELAY", server: 188.114.96.113, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: a.prapt4.ir}}, udp: true}
 - {name: "TG频道@mfbpn-0700-RELAY", server: 104.21.69.44, port: 80, type: vmess, uuid: 7022982f-da4c-48c9-c660-b2315abdcf7e, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: a.prapt4.ir}}, udp: true}
-- {name: "TG频道@mfbpn-0701-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0702-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0703-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0704-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0705-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0706-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0707-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0708-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0709-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0710-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0711-CN", server: free.6vczxw.xyz, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0712-CN", server: free.6vczxw.xyz, port: 30018, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0713-CN", server: free.6vczxw.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0714-CN", server: free.6vczxw.xyz, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0715-CN", server: free.6vczxw.xyz, port: 30012, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0716-CN", server: free.6vczxw.xyz, port: 30026, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0717-CN", server: free.6vczxw.xyz, port: 30027, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0718-CN", server: free.6vczxw.xyz, port: 30028, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0719-CN", server: free.6vczxw.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0720-CN", server: free.6vczxw.xyz, port: 30021, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0721-CN", server: free.6vczxw.xyz, port: 30022, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0722-CN", server: free.6vczxw.xyz, port: 30030, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0723-CN", server: free.6vczxw.xyz, port: 30031, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0724-CN", server: free.6vczxw.xyz, port: 30032, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0725-CN", server: free.6vczxw.xyz, port: 30040, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0726-CN", server: free.6vczxw.xyz, port: 30044, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0727-CN", server: free.6vczxw.xyz, port: 30046, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0728-CN", server: free.6vczxw.xyz, port: 30048, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0729-CN", server: free.6vczxw.xyz, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0730-CN", server: free.6vczxw.xyz, port: 30052, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0731-CN", server: free.6vczxw.xyz, port: 30054, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0732-CN", server: free.6vczxw.xyz, port: 30056, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0733-CN", server: free.6vczxw.xyz, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0734-CN", server: free.6vczxw.xyz, port: 30060, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0735-CN", server: free.6vczxw.xyz, port: 30062, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0736-CN", server: free.6vczxw.xyz, port: 30064, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0737-CN", server: free.6vczxw.xyz, port: 30066, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0738-CN", server: free.6vczxw.xyz, port: 30068, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0739-CN", server: free.6vczxw.xyz, port: 30070, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0740-CN", server: free.6vczxw.xyz, port: 30072, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0741-CN", server: free.6vczxw.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0742-CN", server: free.6vczxw.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
-- {name: "TG频道@mfbpn-0743-CN", server: free.6vczxw.xyz, port: 30030, type: ss, cipher: chacha20-ietf-poly1305, password: 3703d851-9515-4a14-920e-4d0d50f24e77}
+- {name: "TG频道@mfbpn-0701-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0702-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0703-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0704-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0705-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0706-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0707-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0708-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0709-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0710-CN", server: free.6vczxw.xyz, port: 30016, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0711-CN", server: free.6vczxw.xyz, port: 30017, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0712-CN", server: free.6vczxw.xyz, port: 30018, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0713-CN", server: free.6vczxw.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0714-CN", server: free.6vczxw.xyz, port: 30011, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0715-CN", server: free.6vczxw.xyz, port: 30012, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0716-CN", server: free.6vczxw.xyz, port: 30026, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0717-CN", server: free.6vczxw.xyz, port: 30027, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0718-CN", server: free.6vczxw.xyz, port: 30028, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0719-CN", server: free.6vczxw.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0720-CN", server: free.6vczxw.xyz, port: 30021, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0721-CN", server: free.6vczxw.xyz, port: 30022, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0722-CN", server: free.6vczxw.xyz, port: 30030, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0723-CN", server: free.6vczxw.xyz, port: 30031, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0724-CN", server: free.6vczxw.xyz, port: 30032, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0725-CN", server: free.6vczxw.xyz, port: 30040, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0726-CN", server: free.6vczxw.xyz, port: 30044, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0727-CN", server: free.6vczxw.xyz, port: 30046, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0728-CN", server: free.6vczxw.xyz, port: 30048, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0729-CN", server: free.6vczxw.xyz, port: 30050, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0730-CN", server: free.6vczxw.xyz, port: 30052, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0731-CN", server: free.6vczxw.xyz, port: 30054, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0732-CN", server: free.6vczxw.xyz, port: 30056, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0733-CN", server: free.6vczxw.xyz, port: 30058, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0734-CN", server: free.6vczxw.xyz, port: 30060, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0735-CN", server: free.6vczxw.xyz, port: 30062, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0736-CN", server: free.6vczxw.xyz, port: 30064, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0737-CN", server: free.6vczxw.xyz, port: 30066, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0738-CN", server: free.6vczxw.xyz, port: 30068, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0739-CN", server: free.6vczxw.xyz, port: 30070, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0740-CN", server: free.6vczxw.xyz, port: 30072, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0741-CN", server: free.6vczxw.xyz, port: 30010, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0742-CN", server: free.6vczxw.xyz, port: 30020, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
+- {name: "TG频道@mfbpn-0743-CN", server: free.6vczxw.xyz, port: 30030, type: ss, cipher: chacha20-ietf-poly1305, password: b82d27cd-6de6-4bf6-a20e-2b36310eb90f}
 - {name: "TG频道@mfbpn-0744-US", server: 109.104.152.186, port: 11223, type: ss, cipher: 2022-blake3-chacha20-poly1305, password: 7/bb9x3TJQ4Y5SRA/Al3OdwxIk4uf3Jg8N9wDQg+Uto=}
 - {name: "TG频道@mfbpn-0745-US", server: 107.148.192.148, port: 41911, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: None, headers: {host: None}}, udp: true}
 - {name: "TG频道@mfbpn-0746-US", server: 107.148.192.153, port: 41911, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: None, headers: {host: None}}, udp: true}
@@ -1095,59 +1095,59 @@ proxies:
 - {name: "TG频道@mfbpn-1093-JP", server: 13.113.253.68, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: "TG频道@mfbpn-1094-NL", server: 94.131.106.19, port: 20567, type: ss, cipher: chacha20-ietf-poly1305, password: 4aeyHWCjmoriSFaldEhpnS}
 - {name: "TG频道@mfbpn-1095-CN", server: 59.56.77.178, port: 15083, type: ss, cipher: aes-256-cfb, password: hGkQ6915tD}
-- {name: "TG频道@mfbpn-1096-FR", server: 149.202.82.172, port: 8119, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
-- {name: "TG频道@mfbpn-1097-NL", server: 185.242.86.156, port: 54170, type: ss, cipher: chacha20-ietf-poly1305, password: 36ZCHeabUSfKjfQEvJ4HDV}
-- {name: "TG频道@mfbpn-1098-KR", server: 124.61.91.66, port: 22772, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1099-HK", server: 8.218.173.78, port: 2083, type: trojan, password: 0fd9b883-0551-4ed1-b978-528183b459a2, sni: mfjd.591haoka.com, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1100-US", server: 23.154.136.137, port: 5498, type: ss, cipher: aes-256-gcm, password: lGqs95QkFHo2NV}
-- {name: "TG频道@mfbpn-1101-RELAY", server: 104.18.54.24, port: 80, type: vmess, uuid: 831201cc-07fb-44dd-a1cb-e70beee00268, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /etc, headers: {host: dl2.mrarsha迪亞波利克.惡魔你是誰.diehart2.在良好的手中.mikolo.suonycars.buzz.}}, udp: true}
-- {name: "TG频道@mfbpn-1102-HK", server: 47.242.183.7, port: 2053, type: trojan, password: 0fd9b883-0551-4ed1-b978-528183b459a2, sni: mfjd.591haoka.com, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1103-NL", server: 172.233.51.128, port: 80, type: ss, cipher: chacha20-ietf-poly1305, password: fLAIbz76BnOmJ6HNuK2qvm}
-- {name: "TG频道@mfbpn-1104-RELAY", server: 104.25.240.181, port: 8443, type: vmess, uuid: 3b873394-0165-4825-dd8f-3fb78b2b036d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: ukv4.7070777.xyz}}, udp: true}
-- {name: "TG频道@mfbpn-1105-RELAY", server: 172.67.185.79, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: oiictw.yydsii.com}}, udp: true}
-- {name: "TG频道@mfbpn-1106-CN", server: 223.113.54.154, port: 23621, type: trojan, password: gkviEOYc, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1107-FR", server: 149.202.82.172, port: 8008, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-- {name: "TG频道@mfbpn-1108-CN", server: m.cnmjin.net, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}, udp: true}
-- {name: "TG频道@mfbpn-1109-PL", server: 51.77.53.200, port: 3306, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: "TG频道@mfbpn-1110-RELAY", server: 104.19.52.78, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1096-DE", server: 18.153.197.162, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1097-DE", server: 35.159.59.11, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1098-RELAY", server: 104.19.53.103, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1099-GB", server: 51.141.239.0, port: 43131, type: ss, cipher: chacha20-ietf-poly1305, password: ucordp22jRbb6FrC3GKM98}
+- {name: "TG频道@mfbpn-1100-RELAY", server: 104.19.52.235, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1101-RELAY", server: 104.19.52.179, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1102-RELAY", server: 104.19.52.11, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1103-PL", server: 51.77.53.200, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+- {name: "TG频道@mfbpn-1104-CA", server: 15.157.124.7, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1105-PL", server: 51.77.53.200, port: 8090, type: ss, cipher: aes-256-gcm, password: PCnnH6SQSnfoS27}
+- {name: "TG频道@mfbpn-1106-RELAY", server: 104.19.38.28, port: 8880, type: vmess, uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm, headers: {host: funk-england-indirect-gospel.trycloudflare.com}}, udp: true}
+- {name: "TG频道@mfbpn-1107-JP", server: iepl2.forlive.live, port: 50105, type: ss, cipher: chacha20-ietf-poly1305, password: a4ac2592-28e7-4927-94b3-277edae0869a}
+- {name: "TG频道@mfbpn-1108-PL", server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
+- {name: "TG频道@mfbpn-1109-RELAY", server: 104.19.52.246, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1110-PL", server: 51.77.53.200, port: 5500, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
 - {name: "TG频道@mfbpn-1111-PL", server: 51.77.53.200, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: "TG频道@mfbpn-1112-RELAY", server: 104.19.38.28, port: 8880, type: vmess, uuid: 028c8131-9e3e-4836-94ac-ea7f24d4d05a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: 028c8131-9e3e-4836-94ac-ea7f24d4d05a-vm, headers: {host: funk-england-indirect-gospel.trycloudflare.com}}, udp: true}
-- {name: "TG频道@mfbpn-1113-FR", server: 149.202.82.172, port: 5004, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: "TG频道@mfbpn-1114-DE", server: 3.70.70.101, port: 14461, type: trojan, password: xzGKkXK5qKeu, sni: appsvs.shop, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1115-FR", server: 149.202.82.172, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: "TG频道@mfbpn-1116-RELAY", server: 164.38.155.61, port: 443, type: trojan, password: TeleGram-VPNCTVIP, sni: trojan-ws.vpnctvip.dns-dynamic.NeT, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1117-RELAY", server: 104.19.53.21, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1118-TW", server: 60.248.63.88, port: 12031, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1119-JP", server: bgroup.node1.s.nodelist-gfwairport2.top, port: 50001, type: ss, cipher: chacha20-ietf-poly1305, password: 2155145a-b1b5-443a-8977-670f6bd10f02}
-- {name: "TG频道@mfbpn-1120-IE", server: 34.251.156.68, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1121-FR", server: 149.202.82.172, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
-- {name: "TG频道@mfbpn-1122-CN", server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
-- {name: "TG频道@mfbpn-1123-FR", server: 149.202.82.172, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
-- {name: "TG频道@mfbpn-1124-RELAY", server: 104.19.53.103, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1125-FR", server: 149.202.82.172, port: 5001, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: "TG频道@mfbpn-1126-CL", server: 64.176.15.74, port: 3389, type: vmess, uuid: 9c050a86-d612-48f1-ec32-e573df08a1b7, alterId: 0, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: /, headers: {host: vkvd127.mycdn.me}}, udp: true}
-- {name: "TG频道@mfbpn-1127-RELAY", server: 104.21.8.157, port: 2082, type: vmess, uuid: 112ac36f-3f53-4e26-8371-d25c028e1b9a, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: s1c.v2.v001sss.xyz}}, udp: true}
-- {name: "TG频道@mfbpn-1128-US", server: 3.132.57.185, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1129-PL", server: 51.77.53.200, port: 2375, type: ss, cipher: aes-256-gcm, password: faBAoD54k87UJG7}
-- {name: "TG频道@mfbpn-1130-PL", server: 51.77.53.200, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
-- {name: "TG频道@mfbpn-1131-RELAY", server: 104.19.52.108, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1132-FR", server: 51.44.63.141, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1133-RELAY", server: 104.19.52.13, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1134-PL", server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
-- {name: "TG频道@mfbpn-1135-RELAY", server: 104.19.47.36, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: oiictw.yydsii.com}}, udp: true}
-- {name: "TG频道@mfbpn-1136-RELAY", server: 104.19.53.95, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1137-CN", server: 183.238.202.173, port: 51193, type: vmess, uuid: 418048af-a293-4b99-9b0c-98ca3580dd24, alterId: 64, cipher: auto, skip-cert-vertify: true, network: tcp, tls: false, ws-opts: {path: /, headers: {host: None}}, udp: true}
-- {name: "TG频道@mfbpn-1138-RELAY", server: 104.19.52.251, port: 2083, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1139-RELAY", server: 104.19.52.219, port: 8443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1140-PL", server: 51.77.53.200, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
-- {name: "TG频道@mfbpn-1141-CN", server: 183.232.139.22, port: 50611, type: trojan, password: gkviEOYc, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1142-NL", server: 94.131.106.19, port: 20567, type: ss, cipher: chacha20-ietf-poly1305, password: 4aeyHWCjmoriSFaldEhpnS}
-- {name: "TG频道@mfbpn-1143-RELAY", server: 104.19.53.74, port: 2053, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1144-PL", server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
-- {name: "TG频道@mfbpn-1145-GB", server: 13.41.49.187, port: 22222, type: trojan, password: telegram-id-privatevpns, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1146-KR", server: 146.56.44.226, port: 55555, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1147-SE", server: 13.53.196.26, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
-- {name: "TG频道@mfbpn-1148-US", server: 23.157.40.87, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+- {name: "TG频道@mfbpn-1112-RELAY", server: 104.19.53.69, port: 2096, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1113-JP", server: jhryx-1087-v2-0.d-kcd.tuil.xyz, port: 888, type: vmess, uuid: 8d994cc0-a8a7-4f66-b1e4-771c7e7c6ecd, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /je5x3pBN1vez3NQudNkB, headers: {host: cdn.cjhh.lol}}, udp: true}
+- {name: "TG频道@mfbpn-1114-KR", server: 124.61.91.66, port: 22772, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1115-CA", server: 3.99.22.75, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1116-FR", server: 149.202.82.172, port: 443, type: ss, cipher: aes-256-gcm, password: pKEW8JPByTVTLtM}
+- {name: "TG频道@mfbpn-1117-FR", server: 149.202.82.172, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: "TG频道@mfbpn-1118-PL", server: 51.77.53.200, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+- {name: "TG频道@mfbpn-1119-FR", server: 149.202.82.172, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: "TG频道@mfbpn-1120-FR", server: 149.202.82.172, port: 9101, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+- {name: "TG频道@mfbpn-1121-RELAY", server: 104.19.47.36, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: oiictw.yydsii.com}}, udp: true}
+- {name: "TG频道@mfbpn-1122-CN", server: m.cnmjin.net, port: 16632, type: vmess, uuid: 2b8cfb7b-d3e7-4525-8418-e13a9b8fd73b, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: /, headers: {host: dcef278233434a15c3587ef998dd119d.mobgslb.tbcache.com}}, udp: true}
+- {name: "TG频道@mfbpn-1123-US", server: 172.233.146.107, port: 23333, type: trojan, password: 450524c4-86ee-4a97-ac7f-888942039bcd, sni: test.com, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1124-PL", server: 51.77.53.200, port: 8000, type: ss, cipher: aes-256-gcm, password: KixLvKzwjekG00rm}
+- {name: "TG频道@mfbpn-1125-DE", server: 3.70.70.101, port: 14461, type: trojan, password: xzGKkXK5qKeu, sni: appsvs.shop, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1126-GB", server: 212.102.53.78, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+- {name: "TG频道@mfbpn-1127-US", server: 3.132.57.185, port: 22222, type: trojan, password: telegram-id-directvpn, sni: trojan.burgerip.co.uk, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1128-PL", server: 51.77.53.200, port: 8888, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: "TG频道@mfbpn-1129-US", server: 167.88.61.235, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+- {name: "TG频道@mfbpn-1130-FR", server: 149.202.82.172, port: 9102, type: ss, cipher: aes-256-gcm, password: e4FCWrgpkji3QY}
+- {name: "TG频道@mfbpn-1131-RELAY", server: 104.19.52.181, port: 443, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1132-CN", server: service.ouluyun9803.com, port: 26667, type: ss, cipher: chacha20-ietf-poly1305, password: d6105bbd-be0d-45b2-82ad-31fd1071c1d2}
+- {name: "TG频道@mfbpn-1133-FR", server: 149.202.82.172, port: 6679, type: ss, cipher: aes-256-gcm, password: TEzjfAYq2IjtuoS}
+- {name: "TG频道@mfbpn-1134-FR", server: 149.202.82.172, port: 6379, type: ss, cipher: aes-256-gcm, password: zDNVedRFPQexG9v}
+- {name: "TG频道@mfbpn-1135-GB", server: 212.102.53.80, port: 443, type: ss, cipher: aes-128-gcm, password: shadowsocks}
+- {name: "TG频道@mfbpn-1136-RELAY", server: 104.19.47.150, port: 8080, type: vmess, uuid: b551aa22-22af-11ee-b8d8-f23c932eb68d, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: false, ws-opts: {path: "/?ed=2048", headers: {host: oiictw.yydsii.com}}, udp: true}
+- {name: "TG频道@mfbpn-1137-PL", server: 51.77.53.200, port: 5003, type: ss, cipher: aes-256-gcm, password: g5MeD6Ft3CWlJId}
+- {name: "TG频道@mfbpn-1138-PL", server: 51.77.53.200, port: 7307, type: ss, cipher: aes-256-gcm, password: FoOiGlkAA9yPEGP}
+- {name: "TG频道@mfbpn-1139-RELAY", server: 104.19.52.22, port: 2096, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1140-KR", server: 146.56.44.226, port: 55555, type: trojan, password: moist, sni: trojan.freenods.sbs, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1141-RELAY", server: 104.19.52.98, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1142-HK", server: 47.243.243.14, port: 2083, type: trojan, password: 0fd9b883-0551-4ed1-b978-528183b459a2, sni: mfjd.591haoka.com, skip-cert-verify: true, udp: true}
+- {name: "TG频道@mfbpn-1143-PL", server: 51.77.53.200, port: 8882, type: ss, cipher: aes-256-gcm, password: kDWvXYZoTBcGkC4}
+- {name: "TG频道@mfbpn-1144-PL", server: 51.77.53.200, port: 8118, type: ss, cipher: aes-256-gcm, password: cdBIDV42DCwnfIN}
+- {name: "TG频道@mfbpn-1145-PL", server: 51.77.53.200, port: 5000, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: "TG频道@mfbpn-1146-PL", server: 51.77.53.200, port: 8009, type: ss, cipher: aes-256-gcm, password: XKFKl2rULjIp74}
+- {name: "TG频道@mfbpn-1147-FR", server: 149.202.82.172, port: 3389, type: ss, cipher: aes-256-gcm, password: Y6R9pAtvxxzmGC}
+- {name: "TG频道@mfbpn-1148-RELAY", server: 104.19.53.65, port: 2087, type: trojan, password: 8557692d-c228-48f0-b6f9-50d44d4a2096, sni: tjjd.yzyx1.v6.army, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-1149-CN", server: tjsedht.cfprefer1.xyz, port: 19563, type: ss, cipher: aes-256-gcm, password: 3ce72168-730e-4020-baf8-620ee14634ac}
 - {name: "TG频道@mfbpn-1150-CN", server: tjsedht.cfprefer1.xyz, port: 10016, type: ss, cipher: aes-256-gcm, password: 3ce72168-730e-4020-baf8-620ee14634ac}
 - {name: "TG频道@mfbpn-1151-CN", server: tjsedht.cfprefer1.xyz, port: 10039, type: ss, cipher: aes-256-gcm, password: 3ce72168-730e-4020-baf8-620ee14634ac}
@@ -1606,7 +1606,7 @@ proxies:
 - {name: "TG频道@mfbpn-1604-SG", server: 47.236.237.90, port: 2096, type: vmess, uuid: b35a9c68-8406-4c6f-bb0d-2671d53e55eb, alterId: 0, cipher: auto, skip-cert-vertify: true, network: ws, tls: true, ws-opts: {path: /fdsffgfdgdfgdf, headers: {host: sg.baijia.cfd}}, udp: true}
 - {name: "TG频道@mfbpn-1605-HK", server: sg.lydurlclub.top, port: 443, type: trojan, password: e406f37e-e164-443e-a4c0-d1ebb700f3db, skip-cert-verify: true, udp: true}
 - {name: "TG频道@mfbpn-1606-JP", server: 4.forlive.live, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 6027e101-7084-3b4a-be0d-ff1230366180}
-- {name: "TG频道@mfbpn-1607-SG", server: jp04.mmyjiedian.com, port: 30004, type: ss, cipher: chacha20-ietf-poly1305, password: c357c98c-e678-4a2b-b143-b67dfd53c973}
+- {name: "TG频道@mfbpn-1607-HK", server: jp04.mmyjiedian.com, port: 30004, type: ss, cipher: chacha20-ietf-poly1305, password: c357c98c-e678-4a2b-b143-b67dfd53c973}
 - {name: "TG频道@mfbpn-1608-JP", server: 4.forlive.live, port: 61002, type: ss, cipher: chacha20-ietf-poly1305, password: 93c83c39-5d4f-43de-b1ba-d401055718a0}
 - {name: "TG频道@mfbpn-1609-JP", server: 3.112.44.123, port: 443, type: ss, cipher: aes-256-cfb, password: amazonskr05}
 - {name: "TG频道@mfbpn-1610-HK", server: sajs.lydurlclub.top, port: 443, type: trojan, password: e406f37e-e164-443e-a4c0-d1ebb700f3db, skip-cert-verify: true, udp: true}
