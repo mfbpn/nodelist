@@ -35,8 +35,8 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1564`
-- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `113`
+当前合并节点总数: `1102`
+- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `139`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `0`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `348`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `276`
@@ -49,20 +49,20 @@
 - [13YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
 - [14YaChengMu/my_clash_url](https://github.com/YaChengMu/my_clash_url), 节点数量: `0`
 - [25hatful/clash](https://github.com/hatful/clash), 节点数量: `0`
-- [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `11`
+- [19imohammadkhalili](https://github.com/imohammadkhalili/V2RAY), 节点数量: `0`
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `0`
-- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `96`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `71`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `52`
+- [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `95`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `43`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `12`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `183`
-- [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `13`
-- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `23`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `318`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `0`
+- [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `21`
+- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `20`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `71`
 
 ## 客户端选择
 ### 主流桌面客户端
