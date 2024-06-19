@@ -38,7 +38,7 @@
 当前合并节点总数: `1093`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `89`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `0`
-- [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `347`
+- [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `348`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `276`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
 - [6mksshare](https://github.com/mksshare/mksshare.github.io), 节点数量: `0`
