@@ -35,9 +35,9 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1718`
-- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `138`
-- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `253`
+当前合并节点总数: `1490`
+- [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `111`
+- [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `256`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `106`
 - [3xJins/x.sub](https://github.com/0xJins/x.sub), 节点数量: `305`
 - [12w1770946466/Auto_proxy](https://github.com/w1770946466/Auto_proxy), 节点数量: `0`
@@ -53,16 +53,16 @@
 - [21ermaozi01](https://github.com/ermaozi01/free_clash_vpn), 节点数量: `18`
 - [22mlabalabala/v2ray-node](https://github.com/xrayfree/mlabalabala/v2ray-node), 节点数量: `0`
 - [23hsb4657/v2ray](https://github.com/hsb4657/v2ray), 节点数量: `0`
-- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `23`
+- [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `26`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `0`
-- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `28`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `84`
+- [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `53`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `78`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
-- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `488`
+- [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `304`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `45`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `20`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `191`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `149`
 
 ## 客户端选择
 ### 主流桌面客户端
