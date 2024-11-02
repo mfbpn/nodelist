@@ -35,7 +35,7 @@
 </details>
 
 ### 鸣谢名单
-当前合并节点总数: `1298`
+当前合并节点总数: `1262`
 - [0pojiezhiyuanjun](https://github.com/pojiezhiyuanjun/freev2), 节点数量: `100`
 - [1snakem982/proxypool](https://github.com/snakem982/proxypool), 节点数量: `280`
 - [02mfbpn/tg_mfbpn_sub](https://github.com/mfbpn/tg_mfbpn_sub), 节点数量: `102`
@@ -62,7 +62,7 @@
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `332`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `0`
 - [33分享社](https://github.com/sangowd/free_doom), 节点数量: `15`
-- [34go4](https://github.com/sangowd/free_doom), 节点数量: `73`
+- [34go4](https://github.com/sangowd/free_doom), 节点数量: `37`
 
 ## 客户端选择
 ### 主流桌面客户端
