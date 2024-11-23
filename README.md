@@ -56,12 +56,12 @@
 - [24itxve/fetch-clash-node](https://github.com/itxve/fetch-clash-node), 节点数量: `18`
 - [26anaer/Sub](https://github.com/anaer/Sub), 节点数量: `0`
 - [27peasoft/NoMoreWalls](https://github.com/peasoft/NoMoreWalls), 节点数量: `27`
-- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `54`
+- [28Pawdroid/Free-servers](https://github.com/Pawdroid/Free-servers), 节点数量: `53`
 - [29openRunner/clash-freenode](https://github.com/openRunner/clash-freenode), 节点数量: `0`
 - [30mgit0001/test_clash](https://github.com//mgit0001/test_clash), 节点数量: `0`
 - [31sangowd/free_doom](https://github.com/sangowd/free_doom), 节点数量: `391`
 - [32helloworld](https://github.com/sangowd/free_doom), 节点数量: `0`
-- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `13`
+- [33分享社](https://github.com/sangowd/free_doom), 节点数量: `14`
 - [34go4](https://github.com/sangowd/free_doom), 节点数量: `27`
 
 ## 客户端选择
